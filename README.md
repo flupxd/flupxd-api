@@ -1,3 +1,4 @@
+[release]: https://github.com/flupxd/flupxd-api/releases/latest
 # Hvad fanden er det her?
 Dette er en samling af api'er og frameworks, som jeg bruger
 i mine projekter.  
